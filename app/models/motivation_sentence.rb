@@ -1,0 +1,2 @@
+class MotivationSentence < ApplicationRecord
+end
