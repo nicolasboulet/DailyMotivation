@@ -1,0 +1,2 @@
+class MotivationYoutube < ApplicationRecord
+end
